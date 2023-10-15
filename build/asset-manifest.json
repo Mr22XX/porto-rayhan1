@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/porto-react/static/css/main.90828686.css",
+    "main.js": "/porto-react/static/js/main.0680da6c.js",
+    "static/js/787.d253c66c.chunk.js": "/porto-react/static/js/787.d253c66c.chunk.js",
+    "static/media/batman.jpg": "/porto-react/static/media/batman.9bf0c468545604273380.jpg",
+    "static/media/s2.png": "/porto-react/static/media/s2.714b131c1f365baaf0a0.png",
+    "static/media/s1.png": "/porto-react/static/media/s1.faebdb8d2b77b796137c.png",
+    "static/media/saya.jpeg": "/porto-react/static/media/saya.56b714effcb1a9c979d2.jpeg",
+    "static/media/tic.png": "/porto-react/static/media/tic.6b76b82681b1becb5c69.png",
+    "static/media/1.jpg": "/porto-react/static/media/1.f17c94cb62e5be91caa9.jpg",
+    "static/media/js.png": "/porto-react/static/media/js.d5b668412b0fe6d078cc.png",
+    "static/media/quran.jpg": "/porto-react/static/media/quran.0df87dd486cfd009406b.jpg",
+    "static/media/laravel.jpg": "/porto-react/static/media/laravel.e7ca11bdb8a38c3c227b.jpg",
+    "static/media/java.jpg": "/porto-react/static/media/java.aa64c62fe639c9d00f05.jpg",
+    "static/media/node.png": "/porto-react/static/media/node.a6c552fb395ef24db76b.png",
+    "static/media/xd.jpg": "/porto-react/static/media/xd.5ee658ae8ca8ab6ca144.jpg",
+    "static/media/react.png": "/porto-react/static/media/react.c2a6ac864c4ccb52e12e.png",
+    "static/media/logo.png": "/porto-react/static/media/logo.7515bd85083d8e611d76.png",
+    "index.html": "/porto-react/index.html",
+    "main.90828686.css.map": "/porto-react/static/css/main.90828686.css.map",
+    "main.0680da6c.js.map": "/porto-react/static/js/main.0680da6c.js.map",
+    "787.d253c66c.chunk.js.map": "/porto-react/static/js/787.d253c66c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90828686.css",
+    "static/js/main.0680da6c.js"
+  ]
+}
